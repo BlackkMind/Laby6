@@ -9,8 +9,7 @@ Zad 4
 Zwraca dane wiek imie. Do ułatwienia sobie zadanie stworzyłem kolejną klase "Nameiage" bliźniaczą do klasy Greeting
 
 Zad 5 
-Sprawdza imię danej osoby następnie sprawdzana jest ostatnia litera imienia jako że większość damskich imion kończy się na litere "a" 
-jeśli tak to jest z góry zakłada że jest to imię damskie i zwracane jest słowo "Kobieta" w przeciwnym wypadku "Mezczyzna"
+Sprawdza imię danej osoby następnie sprawdzana jest ostatnia litera imienia. Jako że większość damskich imion kończy się na litere "a" uznałem że jeśli tak własnie będzie się kończyć imię to z góry zakładane jest że to imię damskie i zwracane jest słowo "Kobieta" w przeciwnym wypadku zwracane jest słowo "Mezczyzna"
 
 Zad 6
 Zadniem tej fukcji jest sprawdzić czy zadeklarowana wcześniej zmienna template3 zawiera w sobie "tekst"
