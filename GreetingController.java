@@ -38,7 +38,7 @@ public class GreetingController {
 
 
     // Zad 4
-    @RequestMapping(path = "/nameiage", method = GET) //4)dodaje zwracana wartosc - imie i wiek
+    @RequestMapping(path = "/nameiage", method = GET) 
     public Nameiage nameiage(@RequestParam(value = "wiek", defaultValue = "1") int wiek,
                              @RequestParam(value = "name", defaultValue = "User") String name) {
         return new Nameiage(counter.incrementAndGet(), String.format(template, name), wiek);
