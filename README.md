@@ -15,3 +15,5 @@ jeśli tak to jest z góry zakłada że jest to imię damskie i zwracane jest s�
 Zad 6
 Zadniem tej fukcji jest sprawdzić czy zadeklarowana wcześniej zmienna template3 zawiera w sobie "tekst"
 
+JSON(Java Script Object Notation) jest to lekki format wymiany danych komputerowych.JSON jest formatem tekstowym, bazującym na podzbiorze języka JavaScript a cały kod domyślnie jest w unikodzie. JSON jest formatem niezależnym i korzysta z niego wiele innych języków.Najczęściej jest wykorzystywany do przekazywania i odbierania danych z serwera przez aplikacje na stronie internetowej.Wszystkie dane są zmiennymi. Właściwości obiektów są w cudzysłowiu a wartości mogą być typu string double tablicami obiektami czy boolean.
+
